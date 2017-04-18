@@ -1,0 +1,366 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.kplsolucoes.com.br/ABACOSWebService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ProtocoloNotaFiscal" type="xs:string"/>
+  <xs:element name="EmissorCNPJ" type="xs:string"/>
+  <xs:element name="CodigoNotaFiscal" type="xs:string"/>
+  <xs:element name="NumeroNotaFiscal" type="xs:string"/>
+  <xs:element name="SerieNotaFiscal" type="xs:string"/>
+  <xs:element name="EntradaSaida" type="xs:string"/>
+  <xs:element name="CFOPNota" type="xs:string"/>
+  <xs:element name="DataCadastro" type="xs:string"/>
+  <xs:element name="DataEmissao" type="xs:string"/>
+  <xs:element name="DataEntradaSaida" type="xs:string"/>
+  <xs:element name="NaturezaOperacao" type="xs:string"/>
+  <xs:element name="StatusNota" type="xs:string"/>
+  <xs:element name="ValorMercadorias" type="xs:string"/>
+  <xs:element name="ValorServicos" type="xs:string"/>
+  <xs:element name="ValorMercadoriasServicos" type="xs:string"/>
+  <xs:element name="ValorFrete" type="xs:string"/>
+  <xs:element name="ValorEncargos" type="xs:string"/>
+  <xs:element name="ValorNota" type="xs:string"/>
+  <xs:element name="VolumesQuantidade" type="xs:string"/>
+  <xs:element name="VolumesEspecie" type="xs:string"/>
+  <xs:element name="VolumesNumero" type="xs:string"/>
+  <xs:element name="VolumesMarca" type="xs:string"/>
+  <xs:element name="VolumesPesoLiquido" type="xs:string"/>
+  <xs:element name="VolumesPesoBruto" type="xs:string"/>
+  <xs:element name="CodigoInternoCliFor" type="xs:string"/>
+  <xs:element name="CodigoExternoCliFor" type="xs:string"/>
+  <xs:element name="CodigoEntidadeInterno" type="xs:string"/>
+  <xs:element name="CPFouCNPJCliFor" type="xs:string"/>
+  <xs:element name="DestinatarioNome" type="xs:string"/>
+  <xs:element name="DestinatarioTipoPessoa" type="xs:string"/>
+  <xs:element name="DestinatarioCPFouCNPJ" type="xs:string"/>
+  <xs:element name="DestinatarioTelefone" type="xs:string"/>
+  <xs:element name="DestinatarioCelular" type="xs:string"/>
+  <xs:element name="DestinatarioFax" type="xs:string"/>
+  <xs:element name="DestinatarioEmail" type="xs:string"/>
+  <xs:element name="DestinatarioLogradouro" type="xs:string"/>
+  <xs:element name="DestinatarioNumeroLogradouro" type="xs:string"/>
+  <xs:element name="DestinatarioBairro" type="xs:string"/>
+  <xs:element name="DestinatarioCEP" type="xs:string"/>
+  <xs:element name="DestinatarioMunicipio" type="xs:string"/>
+  <xs:element name="DestinatarioEstado" type="xs:string"/>
+  <xs:element name="DestinatarioDescEstado" type="xs:string"/>
+  <xs:element name="DestinatarioPontoReferencia" type="xs:string"/>
+  <xs:element name="DestinatarioInscEstadual" type="xs:string"/>
+  <xs:element name="DestinatarioCodIbgeMunicipio" type="xs:string"/>
+  <xs:element name="DestinatarioPais" type="xs:string"/>
+  <xs:element name="DestinatarioPaisSigla" type="xs:string"/>
+  <xs:element name="DestinatarioSexo" type="xs:string"/>
+  <xs:element name="DestinatarioDocumento" type="xs:string"/>
+  <xs:element name="DestinatarioTipoEndereco" type="xs:string"/>
+  <xs:element name="TransportadoraNome" type="xs:string"/>
+  <xs:element name="TransportadoraCNPJ" type="xs:string"/>
+  <xs:element name="TransportadoraLogradouro" type="xs:string"/>
+  <xs:element name="TransportadoraBairro" type="xs:string"/>
+  <xs:element name="TransportadoraCEP" type="xs:string"/>
+  <xs:element name="TransportadoraMunicipio" type="xs:string"/>
+  <xs:element name="TransportadoraEstado" type="xs:string"/>
+  <xs:element name="TransportadoraTelefone" type="xs:string"/>
+  <xs:element name="TransportadoraInscEstadual" type="xs:string"/>
+  <xs:element name="CodigoPedidoAbacos" type="xs:string"/>
+  <xs:element name="NumeroPedido" type="xs:string"/>
+  <xs:element name="SequencialNumeroPedido" type="xs:string"/>
+  <xs:element name="CodigoNotaEntradaTroca" type="xs:string"/>
+  <xs:element name="NumeroNotaEntradaTroca" type="xs:string"/>
+  <xs:element name="SerieNotaEntradaTroca" type="xs:string"/>
+  <xs:element name="GrupoComercializacao" type="xs:string"/>
+  <xs:element name="NFeChave" type="xs:string"/>
+  <xs:element name="NFeCodStatusSefaz" type="xs:string"/>
+  <xs:element name="NFeStatusSefaz" type="xs:string"/>
+  <xs:element name="NFeDataAutorizacaoCancelada" type="xs:string"/>
+  <xs:element name="NFeDataAutorizacao" type="xs:string"/>
+  <xs:element name="NFeCodigoTipoIntegracao" type="xs:string"/>
+  <xs:element name="NFeDescricaoTipoIntegracao" type="xs:string"/>
+  <xs:element name="NFeProtocoloAutorizacao" type="xs:string"/>
+  <xs:element name="NFeProtocoloCancelamento" type="xs:string"/>
+  <xs:element name="CodigoUnidadeNegocio" type="xs:string"/>
+  <xs:element name="ValorICMS" type="xs:string"/>
+  <xs:element name="ValorICMSSub" type="xs:string"/>
+  <xs:element name="ValorIPI" type="xs:string"/>
+  <xs:element name="ValorBaseICMS" type="xs:string"/>
+  <xs:element name="ValorBaseICMSSub" type="xs:string"/>
+  <xs:element name="ValorBaseIPI" type="xs:string"/>
+  <xs:element name="ValorPISFaturamento" type="xs:string"/>
+  <xs:element name="ValorCOFINSFaturamento" type="xs:string"/>
+  <xs:element name="ValorSeguro" type="xs:string"/>
+  <xs:element name="ValorOutrasDespesas" type="xs:string"/>
+  <xs:element name="ValorDesconto" type="xs:string"/>
+  <xs:element name="ValorGNRE" type="xs:string"/>
+  <xs:element name="Comercializacao" type="xs:string"/>
+  <xs:element name="CodigoComercializacao" type="xs:string"/>
+  <xs:element name="CodigoRepresentante" type="xs:string"/>
+  <xs:element name="NomeRepresentante" type="xs:string"/>
+  <xs:element name="CodigoProcessoTroca" type="xs:string"/>
+  <xs:element name="TrocaOuDevolucao" type="xs:string"/>
+  <xs:element name="SerieNotaVendaOriginal" type="xs:string"/>
+  <xs:element name="NumeroNotaVendaOriginal" type="xs:string"/>
+  <xs:element name="CodigoNotaVendaOriginal" type="xs:string"/>
+  <xs:element name="NFeChaveNotaVendaOriginal" type="xs:string"/>
+  <xs:element name="MensagemCorpoNotaFiscal" type="xs:string"/>
+  <xs:element name="MensagemDadosAdicionais" type="xs:string"/>
+  <xs:element name="DestLogradouro" type="xs:string"/>
+  <xs:element name="DestComplemento" type="xs:string"/>
+  <xs:element name="Canal" type="xs:string"/>
+  <xs:element name="SubCanal" type="xs:string"/>
+  <xs:element name="ChaveNFeDevolucao" type="xs:string"/>
+  <xs:element name="Itens">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ResultadoOperacao">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Codigo"/>
+              <xs:element type="xs:string" name="Descricao"/>
+              <xs:element type="xs:string" name="Tipo"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rows">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DadosItensNotaFiscalDisponiveisWeb">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="Sequencial"/>
+                    <xs:element type="xs:string" name="CodigoProdutoAbacos"/>
+                    <xs:element type="xs:string" name="CodigoProduto"/>
+                    <xs:element type="xs:string" name="CodigoBarrasProduto"/>
+                    <xs:element type="xs:string" name="NomeProduto"/>
+                    <xs:element type="xs:string" name="CodigoItem"/>
+                    <xs:element type="xs:string" name="TipoItem"/>
+                    <xs:element type="xs:string" name="TipoProduto"/>
+                    <xs:element type="xs:string" name="CategoriaFiscal"/>
+                    <xs:element type="xs:string" name="ClassificacaoFiscal"/>
+                    <xs:element type="xs:string" name="OrigemMercadoria"/>
+                    <xs:element type="xs:string" name="TipoOrigemMercadoria"/>
+                    <xs:element type="xs:string" name="UnidadeMedida"/>
+                    <xs:element type="xs:string" name="UnidadeMedidaAbr"/>
+                    <xs:element type="xs:string" name="DescritorSimples1"/>
+                    <xs:element type="xs:string" name="DescritorSimples2"/>
+                    <xs:element type="xs:string" name="DescritorSimples3"/>
+                    <xs:element type="xs:string" name="DescritorPreDefinido1"/>
+                    <xs:element type="xs:string" name="DescritorPreDefinido2"/>
+                    <xs:element type="xs:string" name="DescritorPreDefinido3"/>
+                    <xs:element type="xs:string" name="QuantidadeFiscal"/>
+                    <xs:element type="xs:string" name="QuantidadeFisica"/>
+                    <xs:element type="xs:string" name="PrecoBruto"/>
+                    <xs:element type="xs:string" name="PrecoLiquido"/>
+                    <xs:element type="xs:string" name="TotalBruto"/>
+                    <xs:element type="xs:string" name="TotalLiquido"/>
+                    <xs:element type="xs:string" name="ValorSeguro"/>
+                    <xs:element type="xs:string" name="ValorOutrasDespesas"/>
+                    <xs:element type="xs:string" name="ValorDesconto"/>
+                    <xs:element type="xs:string" name="ValorCustoTotal"/>
+                    <xs:element type="xs:string" name="ValorCustoUnitario"/>
+                    <xs:element type="xs:string" name="CFOPItem"/>
+                    <xs:element type="xs:string" name="NCM"/>
+                    <xs:element type="xs:string" name="SituacaoTributaria"/>
+                    <xs:element type="xs:string" name="ValorFrete"/>
+                    <xs:element type="xs:string" name="ValorEncargos"/>
+                    <xs:element type="xs:string" name="ValorBaseDescontoZonaFranca"/>
+                    <xs:element type="xs:string" name="ValorDescontoZonaFranca"/>
+                    <xs:element type="xs:string" name="AliquotaICMS"/>
+                    <xs:element type="xs:string" name="ValorBaseICMS"/>
+                    <xs:element type="xs:string" name="ValorICMS"/>
+                    <xs:element type="xs:string" name="ValorICMSSobreFrete"/>
+                    <xs:element type="xs:string" name="ValorICMSSobreEncargos"/>
+                    <xs:element type="xs:string" name="ValorBaseICMSSubstitutivo"/>
+                    <xs:element type="xs:string" name="ValorICMSSusbtitutivo"/>
+                    <xs:element type="xs:string" name="AliquotaIcmsSub"/>
+                    <xs:element type="xs:string" name="SituacaoTributariaIPI"/>
+                    <xs:element type="xs:string" name="AliquotaIPI"/>
+                    <xs:element type="xs:string" name="BaseIPI"/>
+                    <xs:element type="xs:string" name="ValorIPI"/>
+                    <xs:element type="xs:string" name="ValorIPISobreFrete"/>
+                    <xs:element type="xs:string" name="ValorIPISobreEncargos"/>
+                    <xs:element type="xs:string" name="CodigoAlmoxarifado"/>
+                    <xs:element type="xs:string" name="Almoxarifado"/>
+                    <xs:element type="xs:string" name="AliquotaGNRE"/>
+                    <xs:element type="xs:string" name="ValorGNRE"/>
+                    <xs:element type="xs:string" name="SituacaoTributariaPIS"/>
+                    <xs:element type="xs:string" name="BasePIS"/>
+                    <xs:element type="xs:string" name="AliquotaPIS"/>
+                    <xs:element type="xs:string" name="ValorPIS"/>
+                    <xs:element type="xs:string" name="SituacaoTributariaCofins"/>
+                    <xs:element type="xs:string" name="BaseCofins"/>
+                    <xs:element type="xs:string" name="AliquotaCofins"/>
+                    <xs:element type="xs:string" name="ValorCofins"/>
+                    <xs:element type="xs:string" name="AliquotaIcmsReducao"/>
+                    <xs:element type="xs:string" name="AliquotaIcmsAcrescimo"/>
+                    <xs:element type="xs:string" name="AliquotaIcmsSubReducao"/>
+                    <xs:element type="xs:string" name="AliquotaIcmsSubAcrescimo"/>
+                    <xs:element name="Rastreabilidade">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ResultadoOperacao">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="Codigo"/>
+                                <xs:element type="xs:string" name="Descricao"/>
+                                <xs:element type="xs:string" name="Tipo"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Pagamentos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ResultadoOperacao">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Codigo"/>
+              <xs:element type="xs:string" name="Descricao"/>
+              <xs:element type="xs:string" name="Tipo"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rows">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DadosPedidoPagamentoWeb">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="CodigoPagamentoAbacos"/>
+                    <xs:element type="xs:string" name="FormaPagamentoCodigo"/>
+                    <xs:element type="xs:string" name="FormaPagamento"/>
+                    <xs:element type="xs:string" name="TipoFormaPagamentoSigla"/>
+                    <xs:element type="xs:string" name="Valor"/>
+                    <xs:element type="xs:string" name="ValorPago"/>
+                    <xs:element type="xs:string" name="TIDGateway"/>
+                    <xs:element type="xs:string" name="Autorizacao"/>
+                    <xs:element type="xs:string" name="NSU"/>
+                    <xs:element type="xs:string" name="DataPagamento"/>
+                    <xs:element type="xs:string" name="DataVencimentoBoleto"/>
+                    <xs:element type="xs:string" name="CondicaoPagamento"/>
+                    <xs:element type="xs:string" name="QuantidadeParcelasCartao"/>
+                    <xs:element name="Parcelas">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ResultadoOperacao">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="Codigo"/>
+                                <xs:element type="xs:string" name="Descricao"/>
+                                <xs:element type="xs:string" name="Tipo"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="Rows">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="DadosPedidoPagamentoParcelasWeb" maxOccurs="unbounded" minOccurs="0">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="DataAprovacao"/>
+                                      <xs:element type="xs:string" name="DataProvisaoPagamento"/>
+                                      <xs:element type="xs:string" name="ValorBruto"/>
+                                      <xs:element type="xs:string" name="NumeroParcela"/>
+                                      <xs:element type="xs:string" name="QuantidadeParcelas"/>
+                                      <xs:element type="xs:string" name="CodigoNSU"/>
+                                      <xs:element type="xs:string" name="CodigoAutorizacao"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="PagamentoBoleto">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="ResultadoOperacao">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="Codigo"/>
+                                <xs:element type="xs:string" name="Descricao"/>
+                                <xs:element type="xs:string" name="Tipo"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element type="xs:string" name="Rows"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PedidosCompra">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ResultadoOperacao">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Codigo"/>
+              <xs:element type="xs:string" name="Descricao"/>
+              <xs:element type="xs:string" name="Tipo"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rows">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DadosPedidoCompraWeb">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="CodigoInternoPedidoCompra"/>
+                    <xs:element type="xs:string" name="CodigoExternoPedidoCompra"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ProcessoTroca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ResultadoOperacao">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Codigo"/>
+              <xs:element type="xs:string" name="Descricao"/>
+              <xs:element type="xs:string" name="Tipo"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Rows">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DadosProcessoTrocaWeb">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="CodigoInternoNotaOrigem"/>
+                    <xs:element type="xs:string" name="CodigoInternoPedidoOrigem"/>
+                    <xs:element type="xs:string" name="CodigoExternoPedidoOrigem"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
