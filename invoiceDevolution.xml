@@ -1,0 +1,305 @@
+ <DadosNotasFiscaisDisponiveisWeb>
+      <ProtocoloNotaFiscal>c4ed55fe-f702-4c16-869a-01d0703bb0a2</ProtocoloNotaFiscal>
+      <EmissorCNPJ>13257648006040</EmissorCNPJ>
+      <CodigoNotaFiscal>1029187</CodigoNotaFiscal>
+      <NumeroNotaFiscal>127086</NumeroNotaFiscal>
+      <SerieNotaFiscal>1  </SerieNotaFiscal>
+      <EntradaSaida>E</EntradaSaida>
+      <CFOPNota>2202</CFOPNota>
+      <DataCadastro>05/04/2017 10:29:46</DataCadastro>
+      <DataEmissao>05/04/2017 10:29:46</DataEmissao>
+      <DataEntradaSaida>05/04/2017 10:29:46</DataEntradaSaida>
+      <NaturezaOperacao>DEVOLUÇÃO DE VENDA                                </NaturezaOperacao>
+      <StatusNota>FINALIZADA                                        </StatusNota>
+      <ValorMercadorias>490</ValorMercadorias>
+      <ValorServicos>490</ValorServicos>
+      <ValorMercadoriasServicos>490</ValorMercadoriasServicos>
+      <ValorFrete>0</ValorFrete>
+      <ValorEncargos>0</ValorEncargos>
+      <ValorNota>490</ValorNota>
+      <VolumesQuantidade>0</VolumesQuantidade>
+      <VolumesEspecie />
+      <VolumesNumero />
+      <VolumesMarca />
+      <VolumesPesoLiquido>0.3</VolumesPesoLiquido>
+      <VolumesPesoBruto>0.3</VolumesPesoBruto>
+      <CodigoInternoCliFor>626792</CodigoInternoCliFor>
+      <CodigoExternoCliFor>626792</CodigoExternoCliFor>
+      <CodigoEntidadeInterno>1738603</CodigoEntidadeInterno>
+      <CPFouCNPJCliFor>00013481199856</CPFouCNPJCliFor>
+      <DestinatarioNome>MARCELO E C S MACEDO</DestinatarioNome>
+      <DestinatarioTipoPessoa>F</DestinatarioTipoPessoa>
+      <DestinatarioCPFouCNPJ>00013481199856</DestinatarioCPFouCNPJ>
+      <DestinatarioTelefone>21984447000</DestinatarioTelefone>
+      <DestinatarioCelular />
+      <DestinatarioFax />
+      <DestinatarioEmail>cello@vezpa.com.br</DestinatarioEmail>
+      <DestinatarioLogradouro>Rua Santa Glafira, 310 CASA</DestinatarioLogradouro>
+      <DestinatarioNumeroLogradouro>310   </DestinatarioNumeroLogradouro>
+      <DestinatarioBairro>São Conrado</DestinatarioBairro>
+      <DestinatarioCEP>22610300</DestinatarioCEP>
+      <DestinatarioMunicipio>RIO DE JANEIRO</DestinatarioMunicipio>
+      <DestinatarioEstado>RJ</DestinatarioEstado>
+      <DestinatarioDescEstado>RIO DE JANEIRO                                    </DestinatarioDescEstado>
+      <DestinatarioPontoReferencia />
+      <DestinatarioInscEstadual>ISENTO</DestinatarioInscEstadual>
+      <DestinatarioCodIbgeMunicipio>3304557</DestinatarioCodIbgeMunicipio>
+      <DestinatarioPais>BRASIL                                            </DestinatarioPais>
+      <DestinatarioPaisSigla>BR</DestinatarioPaisSigla>
+      <DestinatarioSexo>E</DestinatarioSexo>
+      <DestinatarioDocumento />
+      <DestinatarioTipoEndereco>P</DestinatarioTipoEndereco>
+      <TransportadoraNome />
+      <TransportadoraCNPJ />
+      <TransportadoraLogradouro />
+      <TransportadoraBairro />
+      <TransportadoraCEP />
+      <TransportadoraMunicipio />
+      <TransportadoraEstado />
+      <TransportadoraTelefone />
+      <TransportadoraInscEstadual />
+      <CodigoPedidoAbacos>0</CodigoPedidoAbacos>
+      <NumeroPedido />
+      <SequencialNumeroPedido />
+      <CodigoNotaEntradaTroca>1029187</CodigoNotaEntradaTroca>
+      <NumeroNotaEntradaTroca>127086</NumeroNotaEntradaTroca>
+      <SerieNotaEntradaTroca>1  </SerieNotaEntradaTroca>
+      <GrupoComercializacao>12</GrupoComercializacao>
+      <NFeChave>35170413257648006040550010001270861535984491</NFeChave>
+      <NFeCodStatusSefaz>90</NFeCodStatusSefaz>
+      <NFeStatusSefaz>Nota fiscal aprovada pela Sefaz</NFeStatusSefaz>
+      <NFeDataAutorizacaoCancelada />
+      <NFeDataAutorizacao>05/04/2017 10:29:54</NFeDataAutorizacao>
+      <NFeCodigoTipoIntegracao>1</NFeCodigoTipoIntegracao>
+      <NFeDescricaoTipoIntegracao>Normal</NFeDescricaoTipoIntegracao>
+      <NFeProtocoloAutorizacao>135170212455134</NFeProtocoloAutorizacao>
+      <NFeProtocoloCancelamento />
+      <CodigoUnidadeNegocio>9</CodigoUnidadeNegocio>
+      <ValorICMS>19.6</ValorICMS>
+      <ValorICMSSub>0</ValorICMSSub>
+      <ValorIPI>0</ValorIPI>
+      <ValorBaseICMS>490</ValorBaseICMS>
+      <ValorBaseICMSSub>0</ValorBaseICMSSub>
+      <ValorBaseIPI>0</ValorBaseIPI>
+      <ValorPISFaturamento>8.09</ValorPISFaturamento>
+      <ValorCOFINSFaturamento>37.24</ValorCOFINSFaturamento>
+      <ValorSeguro>0</ValorSeguro>
+      <ValorOutrasDespesas>0</ValorOutrasDespesas>
+      <ValorDesconto>0</ValorDesconto>
+      <ValorGNRE>0</ValorGNRE>
+      <Comercializacao>RAYBAN T&amp;D - DEVOLUÇÕES DE CLIENTE                </Comercializacao>
+      <CodigoComercializacao>111</CodigoComercializacao>
+      <CodigoRepresentante />
+      <CodigoRepresentanteVendaOriginal>1</CodigoRepresentanteVendaOriginal>
+      <CodigoRepresentanteExterno>1</CodigoRepresentanteExterno>
+      <NomeRepresentante />
+      <CodigoProcessoTroca>78594</CodigoProcessoTroca>
+      <TrocaOuDevolucao>tdDevolucao</TrocaOuDevolucao>
+      <SerieNotaVendaOriginal>1  </SerieNotaVendaOriginal>
+      <NumeroNotaVendaOriginal>124390</NumeroNotaVendaOriginal>
+      <CodigoNotaVendaOriginal>969458</CodigoNotaVendaOriginal>
+      <NFeChaveNotaVendaOriginal>35170313257648006040550010001243901687774084</NFeChaveNotaVendaOriginal>
+      <MensagemCorpoNotaFiscal>Número da nota fiscal de venda: 124390 de 09/03/2017</MensagemCorpoNotaFiscal>
+      <MensagemDadosAdicionais />
+      <DestLogradouro>Rua Santa Glafira</DestLogradouro>
+      <DestComplemento>CASA</DestComplemento>
+      <Canal />
+      <SubCanal />
+      <ChaveNFeDevolucao>35170313257648006040550010001243901687774084</ChaveNFeDevolucao>
+      <Itens>
+        <ResultadoOperacao>
+          <Codigo>200001</Codigo>
+          <Descricao>Operação "Itens das notas disponíveis" efetuada com sucesso.</Descricao>
+          <Tipo>tdreSucesso</Tipo>
+        </ResultadoOperacao>
+        <Rows>
+          <DadosItensNotaFiscalDisponiveisWeb>
+            <Sequencial>1</Sequencial>
+            <CodigoProdutoAbacos>246316</CodigoProdutoAbacos>
+            <CodigoProduto>8053672240559</CodigoProduto>
+            <CodigoBarrasProduto>8053672240559</CodigoBarrasProduto>
+            <NomeProduto>ARMAÇÃO DE ACETATO MASCULINO|FEMININO</NomeProduto>
+            <CodigoItem>3260493</CodigoItem>
+            <TipoItem>NORMAL</TipoItem>
+            <TipoProduto>PRODUTO</TipoProduto>
+            <CategoriaFiscal>RAYBAN - IMPORTADOS                               </CategoriaFiscal>
+            <ClassificacaoFiscal>9003.11.00</ClassificacaoFiscal>
+            <OrigemMercadoria>2 - Estrangeira - Adquirida no mercado interno, exceto a indicada no código 7</OrigemMercadoria>
+            <TipoOrigemMercadoria>2</TipoOrigemMercadoria>
+            <UnidadeMedida>PECA                                              </UnidadeMedida>
+            <UnidadeMedidaAbr>PC </UnidadeMedidaAbr>
+            <DescritorSimples1 />
+            <DescritorSimples2 />
+            <DescritorSimples3 />
+            <DescritorPreDefinido1 />
+            <DescritorPreDefinido2 />
+            <DescritorPreDefinido3 />
+            <QuantidadeFiscal>1</QuantidadeFiscal>
+            <QuantidadeFisica>1</QuantidadeFisica>
+            <PrecoBruto>490</PrecoBruto>
+            <PrecoLiquido>490</PrecoLiquido>
+            <TotalBruto>490</TotalBruto>
+            <TotalLiquido>490</TotalLiquido>
+            <ValorSeguro>0</ValorSeguro>
+            <ValorOutrasDespesas>0</ValorOutrasDespesas>
+            <ValorDesconto>0</ValorDesconto>
+            <ValorCustoTotal>168.43</ValorCustoTotal>
+            <ValorCustoUnitario>168.43</ValorCustoUnitario>
+            <CFOPItem>2202</CFOPItem>
+            <NCM>90031100</NCM>
+            <SituacaoTributaria>200</SituacaoTributaria>
+            <ValorFrete>0</ValorFrete>
+            <ValorEncargos>0</ValorEncargos>
+            <ValorBaseDescontoZonaFranca>0</ValorBaseDescontoZonaFranca>
+            <ValorDescontoZonaFranca>0</ValorDescontoZonaFranca>
+            <AliquotaICMS>4</AliquotaICMS>
+            <ValorBaseICMS>490</ValorBaseICMS>
+            <ValorICMS>19.6</ValorICMS>
+            <ValorICMSSobreFrete>0</ValorICMSSobreFrete>
+            <ValorICMSSobreEncargos>0</ValorICMSSobreEncargos>
+            <ValorBaseICMSSubstitutivo>0</ValorBaseICMSSubstitutivo>
+            <ValorICMSSusbtitutivo>0</ValorICMSSusbtitutivo>
+            <AliquotaIcmsSub>0</AliquotaIcmsSub>
+            <SituacaoTributariaIPI>03</SituacaoTributariaIPI>
+            <AliquotaIPI>0</AliquotaIPI>
+            <BaseIPI>0</BaseIPI>
+            <ValorIPI>0</ValorIPI>
+            <ValorIPISobreFrete>0</ValorIPISobreFrete>
+            <ValorIPISobreEncargos>0</ValorIPISobreEncargos>
+            <CodigoAlmoxarifado>31</CodigoAlmoxarifado>
+            <Almoxarifado>RAY BAN - FATURAMENTO                             </Almoxarifado>
+            <AliquotaGNRE>0</AliquotaGNRE>
+            <ValorGNRE>0</ValorGNRE>
+            <SituacaoTributariaPIS>50</SituacaoTributariaPIS>
+            <BasePIS>490</BasePIS>
+            <AliquotaPIS>1.65</AliquotaPIS>
+            <ValorPIS>8.09</ValorPIS>
+            <SituacaoTributariaCofins>50</SituacaoTributariaCofins>
+            <BaseCofins>490</BaseCofins>
+            <AliquotaCofins>7.6</AliquotaCofins>
+            <ValorCofins>37.24</ValorCofins>
+            <AliquotaIcmsReducao>0</AliquotaIcmsReducao>
+            <AliquotaIcmsAcrescimo>0</AliquotaIcmsAcrescimo>
+            <AliquotaIcmsSubReducao>0</AliquotaIcmsSubReducao>
+            <AliquotaIcmsSubAcrescimo>0</AliquotaIcmsSubAcrescimo>
+            <Rastreabilidade>
+              <ResultadoOperacao>
+                <Codigo>200003</Codigo>
+                <Descricao>OK, porém não há dados.</Descricao>
+                <Tipo>tdreSucessoSemDados</Tipo>
+              </ResultadoOperacao>
+            </Rastreabilidade>
+            <ValorBaseIcmsUFDestinatario>490</ValorBaseIcmsUFDestinatario>
+            <AliquotaFCPUFDestino>2</AliquotaFCPUFDestino>
+            <AliquotaInternaUFDestinatario>18</AliquotaInternaUFDestinatario>
+            <AliquotaInterestadual>4</AliquotaInterestadual>
+            <PercentualPartilhaOrigem>40</PercentualPartilhaOrigem>
+            <PercentualPartilhaDestino>60</PercentualPartilhaDestino>
+            <ValorFCPUFDestino>9.8</ValorFCPUFDestino>
+            <ValorICMSPartilhaOrigem>27.44</ValorICMSPartilhaOrigem>
+            <ValorICMSPartilhaDestino>41.16</ValorICMSPartilhaDestino>
+            <PercentualDiferimentoIcms>0</PercentualDiferimentoIcms>
+            <ValorDiferimentoIcms>0</ValorDiferimentoIcms>
+            <ValorDiferimentoOperacao>0</ValorDiferimentoOperacao>
+            <Identidade />
+          </DadosItensNotaFiscalDisponiveisWeb>
+        </Rows>
+      </Itens>
+      <Pagamentos>
+        <ResultadoOperacao>
+          <Codigo>200003</Codigo>
+          <Descricao>OK, porém não há dados.</Descricao>
+          <Tipo>tdreSucessoSemDados</Tipo>
+        </ResultadoOperacao>
+        <Rows>
+          <DadosPedidoPagamentoWeb>
+            <CodigoPagamentoAbacos>0</CodigoPagamentoAbacos>
+            <FormaPagamentoCodigo />
+            <FormaPagamento />
+            <TipoFormaPagamentoSigla />
+            <Valor>0</Valor>
+            <ValorPago>0</ValorPago>
+            <TIDGateway />
+            <Autorizacao />
+            <NSU />
+            <DataPagamento />
+            <DataVencimentoBoleto />
+            <CondicaoPagamento />
+            <QuantidadeParcelasCartao>0</QuantidadeParcelasCartao>
+            <CMC7 />
+            <Parcelas>
+              <ResultadoOperacao>
+                <Codigo>200003</Codigo>
+                <Descricao>OK, porém não há dados.</Descricao>
+                <Tipo>tdreSucessoSemDados</Tipo>
+              </ResultadoOperacao>
+              <Rows>
+                <DadosPedidoPagamentoParcelasWeb>
+                  <DataAprovacao />
+                  <DataProvisaoPagamento />
+                  <ValorBruto>0</ValorBruto>
+                  <NumeroParcela>0</NumeroParcela>
+                  <QuantidadeParcelas>0</QuantidadeParcelas>
+                  <CodigoNSU />
+                  <CodigoAutorizacao />
+                </DadosPedidoPagamentoParcelasWeb>
+              </Rows>
+            </Parcelas>
+            <PagamentoBoleto>
+              <ResultadoOperacao>
+                <Codigo>200003</Codigo>
+                <Descricao>OK, porém não há dados.</Descricao>
+                <Tipo>tdreSucessoSemDados</Tipo>
+              </ResultadoOperacao>
+              <Rows>
+                <DadosPagamentoBoleto>
+                  <DataOcorrencia />
+                  <ValorPago />
+                  <NossoNumero />
+                  <DataEmissao />
+                  <NumeroPedido />
+                  <Datapagamento />
+                  <DataCredito />
+                  <DataProcessamento />
+                  <ValorUnitario />
+                  <CNPJCPF />
+                  <RazaoSocial />
+                  <CodigoPedido>0</CodigoPedido>
+                </DadosPagamentoBoleto>
+              </Rows>
+            </PagamentoBoleto>
+          </DadosPedidoPagamentoWeb>
+        </Rows>
+      </Pagamentos>
+      <PedidosCompra>
+        <ResultadoOperacao>
+          <Codigo>200003</Codigo>
+          <Descricao>OK, porém não há dados.</Descricao>
+          <Tipo>tdreSucessoSemDados</Tipo>
+        </ResultadoOperacao>
+        <Rows>
+          <DadosPedidoCompraWeb>
+            <CodigoInternoPedidoCompra>0</CodigoInternoPedidoCompra>
+            <CodigoExternoPedidoCompra />
+          </DadosPedidoCompraWeb>
+        </Rows>
+      </PedidosCompra>
+      <ProcessoTroca>
+        <ResultadoOperacao>
+          <Codigo>200003</Codigo>
+          <Descricao>OK, porém não há dados.</Descricao>
+          <Tipo>tdreSucessoSemDados</Tipo>
+        </ResultadoOperacao>
+        <Rows>
+          <DadosProcessoTrocaWeb>
+            <CodigoInternoNotaOrigem>0</CodigoInternoNotaOrigem>
+            <CodigoInternoPedidoOrigem>0</CodigoInternoPedidoOrigem>
+            <CodigoExternoPedidoOrigem />
+          </DadosProcessoTrocaWeb>
+        </Rows>
+      </ProcessoTroca>
+      <ValorFCPUFDestino>0.000</ValorFCPUFDestino>
+      <ValorICMSPartilhaOrigem>0.000</ValorICMSPartilhaOrigem>
+      <ValorICMSPartilhaDestino>0.000</ValorICMSPartilhaDestino>
+      <FinalidadeNfe>4</FinalidadeNfe>
+    </DadosNotasFiscaisDisponiveisWeb>
