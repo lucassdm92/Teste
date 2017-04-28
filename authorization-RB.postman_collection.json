@@ -1,0 +1,44 @@
+{
+	"variables": [],
+	"info": {
+		"name": "authorization-RB",
+		"_postman_id": "c8d96b92-d0fb-9273-ddea-6146cb684028",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "/oauth",
+			"request": {
+				"url": "https://ad-sgh-hcp.a8e.net.br/ifc-order-api/oauth/token?client_id=clientapp&client_secret=123456&grant_type=password&scope=read%20write&username=SGH\\sgh&password=infrashop14",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://ad.rb.dev.accurate.com.br/ifc-order-api/oauth/token?client_id=clientapp&client_secret=123456&grant_type=password&scope=read%20write&username=RB\\rb&password=infrashop14",
+			"request": {
+				"url": "http://ad.rb.dev.accurate.com.br/ifc-order-api/oauth/token?client_id=clientapp&client_secret=123456&grant_type=password&scope=read%20write&username=RB\\rb&password=infrashop14",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "https://ad-rb-hcp.a8e.net.br/ifc-order-api/oauth/token?client_id=clientapp&client_secret=123456&grant_type=password&scope=read%20write&username=RB\\rb&password=infrashop14",
+			"request": {
+				"url": "https://ad-rb-hcp.a8e.net.br/ifc-order-api/oauth/token?client_id=clientapp&client_secret=123456&grant_type=password&scope=read%20write&username=RB\\rb&password=infrashop14",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
